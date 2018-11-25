@@ -1,0 +1,62 @@
+
+body {
+   background-image: url("img/background3.jpg");
+   background-size: cover;
+}
+
+
+.form-dados{
+   background: rgba(255,255,255, 0.5);
+   padding: 2% 2% 1% 2%;
+   border-radius: 5px;
+}
+
+.form-login{
+   background: rgba(255,255,255, 0.5);
+   padding: 2% 2% 1% 2%;
+   border-radius: 5px;
+}
+
+.form-novo{
+   background: rgba(255,255,255, 0.5);
+   padding: 2% 2% 1% 2%;
+   border-radius: 5px;
+}
+
+.form-perfil{
+   background: rgba(255,255,255, 0.5);
+   padding: 2% 2% 1% 2%;
+   border-radius: 5px;
+}
+
+.table-dados{
+   background: rgba(255,255,255,0.5);
+   padding: 2% 2% 1% 2%;
+   border-radius: 5px;
+   margin-top: 1%;
+}
+
+.navbar-default{
+    color: #fff;
+    background: rgba(0, 0, 0,1);
+}
+
+@media only screen and (min-width: 1000px){
+    .form-dados{
+       background: rgba(255,255,255, 0.5);
+       padding: 2% 2% 1% 2%;
+       border-radius: 5px;
+       position: absolute;
+       float:left;
+    }
+}
+
+@media only screen and (min-width: 1000px){
+    .table-dados{
+       background: rgba(255,255,255,0.5);
+       padding: 2% 2% 1% 2%;
+       border-radius: 5px;
+       margin-top: 1%;
+       margin-left: 25%;
+    }
+}

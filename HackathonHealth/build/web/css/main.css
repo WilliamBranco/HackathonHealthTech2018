@@ -1,0 +1,38 @@
+.navbar {
+   background-color: #d81b60;
+   color: #ffffff;
+}
+.navbar-brand {
+   color: #d81b60;
+}
+
+.container {
+   background-color: #f8bbd0;
+}
+
+.btn-primary {
+   background-color: #ff5c8d;
+   border-color: #d81b60;
+}
+
+.btn-primary:hover{
+   background-color: #d81b60;
+   border-color: #ff5c8d;
+}
+
+a{
+   color: #ff5c8d;
+}
+
+a:hover {
+   color: #d81b60;
+   text-decoration: none;
+}
+
+.navbar-default .navbar-nav>li>a {
+   color: #ffffff;
+}
+
+.navbar-default .navbar-brand {
+    color: #ffffff;
+}
